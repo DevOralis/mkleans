@@ -8,7 +8,7 @@
 /* MKLEAN Talent AI V3 — style signature Recruiting */
 :root{--navy:#121823;--ink:#1d2530;--blue:#287fbd;--blue2:#1771ab;--teal:#16a3a7;--bg:#f5f7f9;--line:#e7ebf0;--sidebar:264px}
 .sidebar{background:#11161e;border-right:1px solid #232b37;color:#e9edf2}
-.side-brand{height:91px;background:#0b0f15;border-bottom:1px solid #28313e;padding:15px 18px;gap:8px;justify-content:space-between}
+.side-brand{height:91px;background:#0b0f15;border-bottom:1px solid #28313e;padding:15px 18px;gap:0;justify-content:center}
 .side-brand .mk-brand-logo{width:160px;height:auto;max-height:52px;object-fit:contain}
 .side-brand .mk-brand-publisher small{display:block;color:#8496aa;font-size:7px;letter-spacing:.4px;text-align:right;max-width:64px}
 .sidebar .nav-label{color:#748091;font-size:9px;margin-top:18px;letter-spacing:1.55px}
